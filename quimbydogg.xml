@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>quimbydogg-overlay</name>
+		<description>Personal overlay for things not included in Gentoo repo or other main overlays.</description>
+		<homepage>https://github.com/quimbydogg/quimbydogg-overlay</homepage>
+		<source type="git">https://github.com/quimbydogg/quimbydogg-overlay.git</source>
+	</repo>
+</repositories>
