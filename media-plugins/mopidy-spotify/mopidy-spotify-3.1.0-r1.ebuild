@@ -1,8 +1,9 @@
 # Copyright 1999-2015 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
-# This is literally just a copy of mrueg overlay ebuild with hard coded 3.1.0 SRC_URI (in Mrueg this is dated to 3.0.0)
-# 3.1.0 mopidy-spotify includes oauth, necessary for SEARCH, blacklight fork to fix playlists
+# This was just a copy of mrueg overlay ebuild with hard coded 3.1.0 SRC_URI (in Mrueg this is dated to 3.0.0)
+# 3.1.0 mopidy-spotify includes oauth, necessary for SEARCH, 
+# with 3.1.0-r1 switched to BlackLight fork to fix playlists
 
 EAPI=5
 PYTHON_COMPAT=(python2_7)
