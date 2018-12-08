@@ -1,3 +1,7 @@
-20181208 - Added openrazer (naga trinity test branch) and polychromatic ebuilds from vifino overlay.  Updated manifest for latest BlackLight build of mopidy-spotify (this includes fixes for playlists/searching).
+20181208 - Added openrazer (naga trinity test branch) and polychromatic ebuilds from vifino overlay.  
+Updated manifest for latest BlackLight build of mopidy-spotify (this includes fixes for playlists/searching).
 
-20180525 - Added mopidy-spotify ebuild 3.1.0-r1 which uses a BlackLight fork to fix a recent problem with playlists not displaying.  The way playlist is fixed will impact/slow down mopidy.  Use at your own risk (works fine for me).  Mask if issues.  Search also works in this build (feature did not work in Mrueg's overlay)
+20180525 - Added mopidy-spotify ebuild 3.1.0-r1 which uses a BlackLight fork to fix a recent problem with playlists not displaying.  
+The way playlist is fixed will impact/slow down mopidy.  Use at your own risk (works fine for me).  
+Mask if issues.  
+Search also works in this build (feature did not work in Mrueg's overlay)
