@@ -13,6 +13,7 @@ DESCRIPTION="Razer Drivers for Linux"
 HOMEPAGE="https://openrazer.github.io/"
 EGIT_REPO_URI="https://github.com/${PN}/${PN}.git"
 EGIT_BRANCH="feature_naga_trinity_0x0067"
+EGIT_COMMIT="feature_naga_trinity_0x0067"
 
 LICENSE="GPL-2"
 SLOT="0"
