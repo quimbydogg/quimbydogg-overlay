@@ -1,4 +1,5 @@
 # Ebuild pulled from vifino-overlay (https://github.com/vifino/vifino-overlay/)
+# Updated for naga trinity branch until support mainlined
 # Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 
@@ -11,6 +12,7 @@ inherit distutils-r1 git-r3 linux-mod
 DESCRIPTION="Razer Drivers for Linux"
 HOMEPAGE="https://openrazer.github.io/"
 EGIT_REPO_URI="https://github.com/${PN}/${PN}.git"
+EGIT_BRANCH="feature_naga_trinity_0x0067"
 
 LICENSE="GPL-2"
 SLOT="0"
