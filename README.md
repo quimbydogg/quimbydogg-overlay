@@ -3,14 +3,14 @@ Personal overlay for packages not in official Gentoo repos or major overlays.  M
 
 To add with layman:
 
-# layman -o https://raw.githubusercontent.com/quimbydogg/quimbydogg-overlay/master/quimbydogg.xml -f -a quimbydogg
+#layman -o https://raw.githubusercontent.com/quimbydogg/quimbydogg-overlay/master/quimbydogg.xml -f -a quimbydogg
 
 You can sync/update the overlay with:
 
-# layman -S
+#layman -S
 
 There will be a warning when you sync overlays since this overlay is not part of the default overlay list used by layman.
 
 If you try to emerge less (necessary for polychromatic) dev-nodejs will probably need added to your portage categories file if it hasn't been already:
 
-# echo "dev-nodejs" >> /etc/portage/categories
+#echo "dev-nodejs" >> /etc/portage/categories
