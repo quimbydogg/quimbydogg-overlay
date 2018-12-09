@@ -1,4 +1,4 @@
-20181209 - Updated POlychromatic ebuild to include necessary less (nodejs) dependancy.
+20181209 - Updated Polychromatic ebuild to include necessary less (nodejs) dependancy.
 
 20181208 - Added openrazer (naga trinity test branch) and polychromatic ebuilds from vifino overlay.  
 Updated manifest for latest BlackLight build of mopidy-spotify (this includes fixes for playlists/searching).
