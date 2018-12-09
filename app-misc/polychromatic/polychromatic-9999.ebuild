@@ -1,4 +1,5 @@
 # Ebuild pulled from vifino-overlay (https://github.com/vifino/vifino-overlay/)
+# Updated to include less depend which can also be found in this overlay
 # Copyright 1999-2016 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
