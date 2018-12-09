@@ -15,7 +15,7 @@ DESCRIPTION="Mopidy extension for playing music from Spotify"
 HOMEPAGE="https://github.com/BlackLight/mopidy-spotify"
 EGIT_REPO_URI="https://github.com/BlackLight/mopidy-spotify.git"
 EGIT_BRANCH="fix/incompatible_playlists"
-S="${WORKDIR}"
+S="${WORKDIR}/fix/incompatible_playlists"
 
 LICENSE="Apache-2.0"
 SLOT="0"
