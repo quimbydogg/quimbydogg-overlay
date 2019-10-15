@@ -24,7 +24,7 @@ RDEPEND="|| ( >=app-emulation/virtualbox-5.0.28 >=app-emulation/virtualbox-bin-5
    virtual/opengl
    || (
       dev-libs/openssl:1.0.0
-      >=dev-libs/openssl-1.0*:0
+      =dev-libs/openssl-1.1*:0
    )
    dev-libs/hiredis:0/0.14
    sys-apps/util-linux
