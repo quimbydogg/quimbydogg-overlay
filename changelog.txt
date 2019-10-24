@@ -1,3 +1,5 @@
+20191024 - Added Openrazer, Polychromatic, and node-js/less back.  Using Razer mouse again and Trinity Naga support merged into main Openrazer branch.
+
 20191015 - Added Genymotion-bin ebuild that fixes libswscale.so.4 issue with main tree ebuild.  Removed Polychromatic, openrazer, less.  Not using these tools, no longer maintaining.
 
 20181209 - Updated Polychromatic ebuild to include necessary less (nodejs) dependancy.
