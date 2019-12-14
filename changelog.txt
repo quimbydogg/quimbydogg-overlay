@@ -1,4 +1,4 @@
-20191214 - Updated openrazer ebuild.
+20191214 - Updated openrazer ebuild for kernel 5.4 support.
 
 20191114 - Bumped Genymotion-bin up to 3.0.3.
 
