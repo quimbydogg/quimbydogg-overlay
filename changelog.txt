@@ -1,3 +1,5 @@
+20191214 - Updated openrazer ebuild.
+
 20191114 - Bumped Genymotion-bin up to 3.0.3.
 
 20191024 - Added Openrazer, Polychromatic, and node-js/less back.  Using Razer mouse again and Trinity Naga support merged into main Openrazer branch.
