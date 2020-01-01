@@ -1,3 +1,5 @@
+20191231 - Added ebuild for pykka 1.2.1 that still supports python2_7 (this was removed from main Gentoo tree but necessary for mopidy-spotify from this ebuild)
+
 20191214 - Updated openrazer ebuild for kernel 5.4 support.
 
 20191114 - Bumped Genymotion-bin up to 3.0.3.
