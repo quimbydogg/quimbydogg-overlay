@@ -21,8 +21,7 @@ SLOT="0"
 KEYWORDS="~amd64"
 IUSE="test"
 
-#latest pykka in gentoo tree (1.2.1 requires building with python3_5 or 3_6 - not sure how to update RDEPEND for that so removed...)
-RDEPEND=">=dev-python/pykka-1.1
+RDEPEND=">=dev-python/pykka-1.1[${PYTHON_USEDEP}]
 	>=dev-python/pyspotify-2.0.5[${PYTHON_USEDEP}]
 	>=media-sound/mopidy-2.0[${PYTHON_USEDEP}]
 	>=dev-python/requests-2.0[${PYTHON_USEDEP}]"
