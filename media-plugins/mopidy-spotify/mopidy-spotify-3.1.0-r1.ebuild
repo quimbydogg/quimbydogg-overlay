@@ -21,7 +21,7 @@ SLOT="0"
 KEYWORDS="~amd64"
 IUSE="test"
 
-RDEPEND=">=dev-python/pykka-1.1[python3_6]
+RDEPEND=">=dev-python/pykka-1.1
 	>=dev-python/pyspotify-2.0.5[${PYTHON_USEDEP}]
 	>=media-sound/mopidy-2.0[${PYTHON_USEDEP}]
 	>=dev-python/requests-2.0[${PYTHON_USEDEP}]"
