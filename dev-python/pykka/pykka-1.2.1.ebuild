@@ -1,6 +1,7 @@
 # Copyright 1999-2019 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
-# Pulled from main Gentoo tree 20191231 and switched back to py2 support for mopidy-spotify from this overlay
+# Pulled from main Gentoo tree 20191231 and reverted change back to allow py2_7 support 
+#	(necessary for mopidy-spotify from this overlay)
 
 EAPI=5
 PYTHON_COMPAT=(python{2_7,3_{5,6}})
