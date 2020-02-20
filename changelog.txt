@@ -1,3 +1,5 @@
+20200220 - Removed Genymotion ebuilds.  This is currently supported with working ebuild version 3.0.4 in main Gentoo tree.
+
 20200111 - Updated openrazer ebuild to account for renaming of razermug to razeraccessory.
 
 20191231 - Added ebuild for pykka 1.2.1 that still supports python2_7 (this was removed from main Gentoo tree but necessary for mopidy-spotify from this ebuild)
