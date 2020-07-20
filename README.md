@@ -1,5 +1,5 @@
 # quimbydogg-overlay
-Personal overlay for packages not in official Gentoo repos or major overlays.  Might add ebuilds from other overlays if I only want one or a few packages from it for my systems.  Primarily put together to have mopidy-spotify w/ Search and Playlists easily installable on Gentoo systems.  Learning how ebuilds and overlays work.  You probably don't want to use this unless you have no other option.
+Personal overlay for packages not in official Gentoo repos or major overlays.  Might add ebuilds from other overlays if I only want one or a few packages from it for my systems.  Learning how ebuilds and overlays work.  You probably don't want to use this unless you have no other option.
 
 To add with layman:
 
