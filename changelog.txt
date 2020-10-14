@@ -1,3 +1,5 @@
+20201013 - Updated openrazer ebuild.
+
 20200720 - Removed old mopidy/spotify ebuilds.  Not using anymore - no longer supported.
 
 20200220 - Removed Genymotion ebuilds.  This is currently supported with working ebuild version 3.0.4 in main Gentoo tree.
