@@ -2,7 +2,6 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 # Pulled from vifino overlay 20191220: https://github.com/vifino/vifino-overlay/
-
 EAPI=5
 
 inherit git-r3 linux-mod
@@ -18,7 +17,7 @@ LICENSE="GPL-2"
 SLOT="0"
 
 RDEPEND="
-    app-misc/openrazer
+    app-misc/openrazer[client]
     dev-nodejs/less
     >=dev-lang/python-3.4.5
     dev-python/distro
