@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # Pulled from vifino-overlay: https://github.com/vifino/vifino-overlay
 
-EAPI=5
+EAPI=6
 
 PYTHON_COMPAT=( python2_7 python3_{6..9} )
 
