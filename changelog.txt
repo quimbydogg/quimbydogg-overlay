@@ -1,4 +1,4 @@
-20210413 - Updated dev-python/d2to1 ebuild.
+20210413 - Updated dev-python/d2to1 ebuild.  Added parsec ebuild.
 
 20210109 - Updated openrazer and polychromatic ebuilds.  Added new python depends for polychromatic.  
 Added new-lg4ff ebuild - An improved logitech force feedback module for wheels.  Also added ebuild for Mangohud.
