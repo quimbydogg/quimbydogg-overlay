@@ -1,3 +1,5 @@
+20211103 - Added Looking-glass ebuild.
+
 20210712 - Updated Mangohud ebuild.
 
 20210413 - Updated dev-python/d2to1 ebuild.  Added parsec and dkms (required for joycond) to overlay.  
