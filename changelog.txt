@@ -1,3 +1,5 @@
+20220131 - Replaced broken Mangohud ebubild.
+
 20211103 - Added Looking-glass ebuild.
 
 20210712 - Updated Mangohud ebuild.
